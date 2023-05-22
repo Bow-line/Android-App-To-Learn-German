@@ -23,9 +23,8 @@ class ResultActivity : AppCompatActivity() {
         binding.resultLabel.text = getString(R.string.result_score,score)
 
         binding.tryAgainBtn.setOnClickListener {
-            startActivity(Intent(this@ResultActivity, MainActivity::class.java))
+            startActivity(Intent(this@ResultActivity, QuizActivity::class.java))
         }
-
 
     }
 }
