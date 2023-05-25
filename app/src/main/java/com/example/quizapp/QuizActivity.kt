@@ -31,7 +31,7 @@ class QuizActivity : AppCompatActivity() {
         var intent = intent.extras
         var lessonName = intent!!.getString("lessonName")
         selectedLesson.text = lessonName
-        selectedLesson = findViewById(R.id.lessonName)
+        selectedLesson = findViewById(R.id.lessonTitle)
         getData()
     }
 
