@@ -3,16 +3,21 @@ package com.example.quizapp
 import android.content.Intent
 import android.os.Bundle
 import android.view.View
+import android.widget.Button
 import android.widget.TextView
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import java.io.File
 import java.io.InputStream
 
 class LearnActivity : AppCompatActivity() {
 
     private var lessonName: String? = null
+
+    //for the list of flashcards
     private val listOfLines = mutableListOf<List<String>>()
-    private val prevListOfLines = mutableListOf<List<String>>()
+    private var listIndex : Int = 0
+
+
     private var totalFlashSize : Int = 0
     private var currentFlashcard : Int = 0
 
@@ -44,26 +49,31 @@ class LearnActivity : AppCompatActivity() {
         val germanTranslation = findViewById<TextView>(R.id.translation)
         val countFlash = findViewById<TextView>(R.id.countFlash)
 
-        val fishu = listOfLines[0]
-        germanWord.text = fishu[0]
-        germanTranslation.text = fishu[1]
+        val flashcard = listOfLines[listIndex]
+        germanWord.text = flashcard[0]
+        germanTranslation.text = flashcard[1]
         countFlash.text = getString(R.string.count_flashcard_label, currentFlashcard, totalFlashSize)
-
-        prevListOfLines.add(listOfLines[0])
-        listOfLines.removeAt(0)
     }
 
-// nie uzywac bo nie dziala jeszcze pls thx
-    private fun ShowPrevFlashcard(){
-        val germanWord = findViewById<TextView>(R.id.germanWord)
-        val germanTranslation = findViewById<TextView>(R.id.translation)
+    private fun showPrevFlashcard(){
+        if (listIndex > 0){
+            val germanWord = findViewById<TextView>(R.id.germanWord)
+            val germanTranslation = findViewById<TextView>(R.id.translation)
+            val countFlash = findViewById<TextView>(R.id.countFlash)
 
-        val fishu = prevListOfLines[0]
-        germanWord.text = fishu[0]
-        germanTranslation.text = fishu[1]
+            currentFlashcard--
+            listIndex--
 
-        listOfLines.add(0, prevListOfLines.last())
-        prevListOfLines.removeLast()
+            val flashcard = listOfLines[listIndex]
+            germanWord.text = flashcard[0]
+            germanTranslation.text = flashcard[1]
+            countFlash.text = getString(R.string.count_flashcard_label, currentFlashcard, totalFlashSize)
+
+        }
+        else {
+            Toast.makeText(applicationContext, "Nie ma poprzedniej fiszki!", Toast.LENGTH_LONG).show()
+        }
+
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -72,16 +82,22 @@ class LearnActivity : AppCompatActivity() {
 
         getData()
         showNextFlashcard()
+
+        // implementing functionality of clicking the next button
+        findViewById<Button>(R.id.nextBtn).setOnClickListener{
+            if(listIndex+1 < totalFlashSize){
+                listIndex++
+                showNextFlashcard()
+            }
+            else{
+                val intent = Intent(this, MenuActivity :: class.java)
+                startActivity(intent)
+            }
+        }
+
+        findViewById<Button>(R.id.prevBtn).setOnClickListener{
+            showPrevFlashcard()
+        }
     }
 
-    fun nextButton(view: View) {
-        if(listOfLines.size != 0){
-            showNextFlashcard()
-        }
-        else{
-            val intent = Intent(this, MenuActivity :: class.java)
-            startActivity(intent)
-        }
-
-    }
 }
