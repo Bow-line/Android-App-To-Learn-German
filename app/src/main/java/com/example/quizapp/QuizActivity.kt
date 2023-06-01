@@ -10,42 +10,50 @@ import androidx.appcompat.app.AlertDialog
 import com.example.quizapp.databinding.ActivityMainBinding
 
 class QuizActivity : AppCompatActivity() {
+    val quizData: MutableList<MutableList<String>> = mutableListOf()
+    private var lessonName: String? = null
 
     private lateinit var binding: ActivityMainBinding
     private var rightAnswer: String? = null
     private var rightAnswrCount = 0
     private var quizCount = 1
-    private var QUIZ_COUNT = 5
+    private var QUIZ_COUNT = 0
 
-    private lateinit var selectedLesson : TextView
 
-    private val quizData = mutableListOf(
-        mutableListOf("Wie viel kostet das?", "Ile to kosztuje?", "Gdzie mogę znaleźć...?","Co chcesz pić?", "Potrzebuję..."),
-        mutableListOf("Wie alt bist du?", "Ile masz lat?","Jakie masz hobby?","Jakie są twoje ulubione miejsca do odwiedzenia?", "Co mówią prognozy pogody na tę najbliższą tydzień?"),
-        mutableListOf("Wo kann ich ... finden?", "Gdzie mogę znaleźć...?", "Jakie są twoje cele zawodowe?","Jakie masz hobby?", "Ile masz lat?"),
-        mutableListOf("Ich habe kein Geld.", " Nie mam pieniędzy", "Potrzebuję...","Gdzie mogę znaleźć...?", "Jakie masz hobby?"),
-        mutableListOf("Was ist \"Dobry wieczór\" auf Deutsch?", "Guten Abend", "Guten Tag","Guten Morgen", "Tschüss")
-    )
-
-    private fun initData(){
-        var intent = intent.extras
-        var lessonName = intent!!.getString("lessonName")
-        selectedLesson.text = lessonName
-        selectedLesson = findViewById(R.id.lessonTitle)
-        getData()
-    }
 
     private fun getData(){
 
+        var intent = intent.extras
+        lessonName = intent!!.getString("lessonName")
+
+        val title = findViewById<TextView>(R.id.unitTitle)
+
+        val fileName = lessonName!!.replace("\\s".toRegex(), "") + "-quiz.txt"
+
+        assets.open(fileName).bufferedReader().use { reader ->
+            reader.forEachLine { line ->
+                val lineData = line.split(";").toMutableList()
+                quizData.add(lineData)
+            }
+        }
+
+
+        QUIZ_COUNT = quizData.size
+
+
     }
-    
+
+
+
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_main)
         binding = ActivityMainBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
-
+        getData()
         showNextQuiz()
     }
 

@@ -1,0 +1,44 @@
+Reise;podróż
+Urlaub;urlop
+Flug;lot
+Bahn;pociąg
+Bus;autobus
+Hotel;hotel
+Unterkunft;zakwaterowanie
+Stadt;miasto
+Strand;plaża
+Berg;góra
+See;jezioro
+Wanderung;wędrówka
+Fahrradfahren;jazda na rowerze
+Koffer;walizka
+Rucksack;plecak
+Reiseführer;przewodnik turystyczny
+Touren;wycieczki
+Ausflug;wycieczka
+Reiseversicherung;ubezpieczenie podróży
+Flughafen;lotnisko
+Bahnhof;dworzec kolejowy
+Busbahnhof;dworzec autobusowy
+Reisebüro;biuro podróży
+Pässe;paszporty
+Visa;wiza
+Reisewarnung;ostrzeżenie podróżne
+Reiserestriktionen;ograniczenia podróży
+Ticket;bilet
+Unterkunft;nocleg
+Navigationssystem;system nawigacji
+Campingplatz;kemping
+Reiseversicherung;ubezpieczenie podróży
+Hotel;hotel
+U-Bahn;metro
+Wo ist die nächste Bushaltestelle?;Gdzie jest najbliższy przystanek autobusowy?
+Wie komme ich zum Bahnhof?;Jak dostać się na dworzec?
+Kann ich hier ein Taxi bestellen?;Czy mogę tutaj zamówić taksówkę?
+Welche Bahn/Bus/Straßenbahn muss ich nehmen?;Jaki pociąg/autobus/tramwaj mam wziąć?
+Wie viel kostet die Fahrkarte?;Ile kosztuje bilet?
+Kann ich eine Fahrkarte für die Stadt/eine Tageskarte/eine Wochenkarte kaufen?;Czy mogę kupić bilet miejski/na jeden dzień/na tydzień?
+Gibt es eine Verbindung nach ...?;Czy jest połączenie do...
+Wann fährt der nächste Zug/Bus/Flug nach ... ab?;Kiedy odjeżdża następny pociąg/autobus/lot do...
+Wo kann ich mein Gepäck aufbewahren?;Gdzie mogę zostawić moje bagaże?
+Kann ich einen Platz reservieren?;Czy mogę zarezerwować miejsce?

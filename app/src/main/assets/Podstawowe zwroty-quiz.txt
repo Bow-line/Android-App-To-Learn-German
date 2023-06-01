@@ -1,0 +1,20 @@
+Was ist "Hallo" auf Deutsch?;Cześć;Dzień dobry;Do widzenia;Dziękuję
+Was ist "Guten Morgen" auf Deutsch?;Dzień dobry;Cześć;Do widzenia;Przepraszam
+Was ist "Wie geht's" auf Deutsch?;Jak się masz?;Dzień dobry;Przepraszam, co powiedziałeś?;Do widzenia
+Was ist "śnieg" auf Deutsch?;Przepraszam;Proszę;Dziękuję;Jak się masz?
+Was ist "Entschuldigung" auf Deutsch?;Nie mówię po niemiecku;Nie wiem;Nie rozumiem;Jak się masz?
+Was ist "Dobry wieczór" auf Deutsch?;Guten Abend;Guten Morgen;Tschüss;Guten Tag
+Was ist "jestem głodny" auf Deutsch?;Ich habe Hunger;Ich bin müde;Ich habe Durst;Ich brauche etwas zu essen
+Was ist "jestem zmęczony" auf Deutsch?;Ich bin müde;Ich bin hungrig;Ich bin krank;Ich bin verloren
+Was ist "nie rozumiem" auf Deutsch?;Ich verstehe nicht;Ich höre nicht;Ich verstehe gut;Ich spreche nicht
+Was ist "Dziękuję" auf Deutsch?;Danke;Bitte;Entschuldigung;Ja
+Wie heißt du?;Jak się masz?;Jak masz na imię?;Gdzie jest...?;Ile masz lat?
+Wie viel kostet das?;Ile to kosztuje?;Gdzie mogę znaleźć...?;Co chcesz pić?;Potrzebuję...
+Was sagen die Wettervorhersagen für diese Woche voraus?;Jakie masz hobby?;Ile masz lat?;Jakie są twoje ulubione miejsca do odwiedzenia?;Co mówią prognozy pogody na ten najbliższy tydzień?
+Was ist der Preis für das Steak?;Ile kosztuje stek?;Jakie masz hobby?;Gdzie mieszkasz?;Jakie jest twoje zawodowe?
+Wie ist das Wetter heute?;Jaka jest dzisiaj pogoda?;Jakie jest twoje zawodowe?;Jakie masz hobby?;Jakie masz cele w życiu?
+Was möchtest du essen?;Co chcesz jeść?;Ile masz lat?;Jakie masz hobby?;Jakie jest twoje zawodowe?
+Wo kann ich ... finden?;Gdzie mogę znaleźć...?;Jakie masz hobby?;Jakie są twoje cele zawodowe?;Ile masz lat?
+Ich brauche...;Potrzebuję...;Co chcesz jeść?;Jakie masz hobby?;Jakie jest twoje zawodowe?
+Ich bin hier neu.;Jestem nowy tutaj;Potrzebuję...;Gdzie mogę znaleźć...?;Jakie masz hobby?
+Ich habe kein Geld.;Nie mam pieniędzy;Co chcesz jeść?;Potrzebuję...;Jestem nowy tutaj

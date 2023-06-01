@@ -1,0 +1,18 @@
+Was ist der deutsche Begriff für "rostbef"?;der Leberknödel;der Rostbraten;der Kartoffelpuffer;der Kaiserschmarrn
+Was ist der deutsche Begriff für "mięta"?;der Pfefferminz;der Zucker;das Salz;der Pfeffer
+Was ist der deutsche Begriff für "ciasto cytrynowe"?;der Zitronenkuchen;der Schokoladenkuchen;der Apfelstrudel;der Kaiserschmarrn
+Was ist der deutsche Begriff für "makaron ryżowy"?;der Reisnudel;der Spaghetti;der Pizzateig;der Tofu
+Welche Begriffe beschreiben eine Art von Fleisch?;der Lammfleisch und der Truthahn;der Schinken und der Speck;der Tofu und der Reis;der Paprika und der Sellerie
+Welche Begriffe beschreiben eine Art von Kuchen?;der Apfelstrudel und der Kaiserschmarrn;der Schokoladenpudding und der Pudding;der Zitronenkuchen und der Grießnockerlsuppe
+Welche Begriffe beschreiben eine Art von Getränk?;der Tee und der Kaffee;der Wein und der Eierlikör;der Saft und der Paprika;das Bier und der Schnaps
+Welche Begriffe beschreiben Zutaten, die häufig in Suppen verwendet werden?;der Zwiebel und der Sellerie;der Schinken und der Speck;der Pfeffer und das Salz;der Tofu und der Reis
+Wie kann ich bestellen?;Jak mogę zamówić?;Jak mogę anulować zamówienie?;Jak mogę opłacić rachunek?;Jak mogę zapłacić?
+Was empfehlen Sie?;Co polecasz?;Jakie są ceny?;Czy macie menu wegetariańskie?;Co jest daniem dnia?
+Was ist das Tagesgericht?;Co jest daniem dnia?;Ile kosztuje danie dnia?;Czy danie dnia jest wegetariańskie?;Czy danie dnia jest dostępne tylko w południe?
+Haben Sie vegetarische/vegane Gerichte?;Czy macie dania wegetariańskie/wegańskie?;Czy macie dania bez mięsa?;Czy macie dania bez jaj?;Czy macie dania bezglutenowe?
+Kann ich einen Tisch für heute Abend reservieren?;Czy mogę zarezerwować stolik na dziś wieczorem?;Czy mogę zarezerwować stolik na dziś po południu?;Czy mogę zarezerwować stolik na jutro rano?;Czy mogę zarezerwować stolik na jutro wieczorem?
+Was ist der Preis für das Steak?;Ile kosztuje stek?;Ile kosztuje sałatka?;Ile kosztuje danie z rybą?;Ile kosztuje kawa?
+Ich habe eine Allergie gegen Gluten. Haben Sie glutenfreie Gerichte?;Czy macie dania bezglutenowe?;Czy macie dania bez jaj?;Czy macie dania bez mięsa?;Czy macie dania wegetariańskie?
+Kann ich bitte die Karte sehen?;Czy mogę prosić o kartę?;Czy mogę prosić o cennik?;Czy mogę prosić o menu dla dzieci?;Czy mogę prosić o menu dnia?
+Kann ich bitte ein Glas Wasser haben?;Czy mogę prosić o szklankę wody?;Czy mogę prosić o herbatę?;Czy mogę prosić o sok?;Czy mogę prosić o kawę?
+Kann ich die Rechnung bitte?;Czy mogę dostać rachunek?;Czy mogę zapłacić kartą?;Czy mogę zabrać resztę?;Czy mogę zapłacić gotówką?

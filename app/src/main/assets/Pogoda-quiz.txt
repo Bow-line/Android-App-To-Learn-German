@@ -1,0 +1,19 @@
+Was ist "deszcz" auf Deutsch?;Regen;Schnee;Sonne;Wind
+Was ist "słońce" auf Deutsch?;Sonne;Regen;Schnee;Wolken
+Was ist "chmury" auf Deutsch?;Wolken;Regen;Schnee;Sonne
+Was ist "śnieg" auf Deutsch?;Schnee;Regen;Sonne;Wolken
+Was ist "wiatr" auf Deutsch?;Wind;Schnee;Regen;Sonne
+Was ist "Grad" auf Deutsch?;Hagel;Schnee;Sonne;Regen
+Was ist "mgła" auf Deutsch?;Nebel;Schnee;Regen;Sonne
+Was ist "susza" auf Deutsch?;Dürre;Regen;Schnee;Sonne
+Was ist "zamarznięta ziemia" auf Deutsch?;Frostboden;Regen;Schnee;Sonne
+Was ist "powódź" auf Deutsch?;Überschwemmung;Schnee;Sonne;Regen
+Wie ist das Wetter heute?;Jaka jest pogoda dzisiaj;Jaka jest aktualna wilgotność;Jaka jest prognoza pogody na następny tydzień;Jakie jest ciśnienie powietrza
+Wie wird das Wetter morgen sein?;Jaka jest pogoda jutro;Jaka jest prognoza pogody na następny tydzień;Jaka jest aktualna wilgotność;Jakie jest ciśnienie powietrza
+Wie warm ist es draußen?;Jak ciepło jest na zewnątrz;Jaka jest pogoda jutro;Jaka jest aktualna wilgotność;Jakie jest ciśnienie powietrza
+Regnet es gerade?;Pada deszcz teraz;Jaka jest pogoda dzisiaj;Jakie jest ciśnienie powietrza;Jaka jest prognoza pogody na następny tydzień
+Ist es heute sonnig?;Czy dzisiaj jest słonecznie;Jakie jest ciśnienie powietrza;Jaka jest prognoza pogody na następny tydzień;Jaka jest aktualna wilgotność
+Was ist die aktuelle Luftfeuchtigkeit?;Jak wysoka jest aktualna wilgotność powietrza;Jakie jest ciśnienie powietrza;Jaka jest pogoda dzisiaj;Jaka jest prognoza pogody na następny tydzień
+Gibt es heute Niederschlag?;Czy dzisiaj jest opad deszczu;Jaka jest aktualna wilgotność;Jaka jest prognoza pogody na następny tydzień;Jakie jest ciśnienie powietrza
+Welche Wettervorhersage gibt es für die nächste Woche?;Jaka jest prognoza pogody na następny tydzień;Jakie jest ciśnienie powietrza;Jaka jest aktualna wilgotność;Jaka jest pogoda dzisiaj
+Wie stark ist der Wind?;Jak silny jest wiatr;Jakie jest ciśnienie powietrza;Jaka jest aktualna wilgotność;Jaka jest prognoza pogody na następny tydzie

@@ -1,0 +1,4 @@
+Wie viel kostet das?;Ile to kosztuje?;Gdzie mogę znaleźć...?;Co chcesz pić?;Potrzebuję...
+Wie alt bist du?;Ile masz lat?;Jakie masz hobby?;Jakie są twoje ulubione miejsca do odwiedzenia?;Co mówią prognozy pogody na tę najbliższą tydzień?
+Wo kann ich ... finden?;Gdzie mogę znaleźć...?;Jakie są twoje cele zawodowe?;Jakie masz hobby?;Ile masz lat?
+Ich habe kein Geld.;Nie mam pieniędzy;Potrzebuję...;Gdzie mogę znaleźć...?;Jakie masz hobby?

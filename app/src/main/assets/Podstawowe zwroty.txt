@@ -1,0 +1,74 @@
+Hallo;Cześć
+Guten Tag;Dzień dobry
+Guten Morgen;Dzień dobry
+Guten Abend;Dobry wieczór
+Wie geht's?;Jak się masz?
+Mir geht's gut.;Mam się dobrze.
+Ich heiße...;Nazywam się...
+Ich komme aus...;Pochodzę z...
+Ich spreche kein Deutsch.;Nie mówię po niemiecku.
+Ich verstehe nicht.;Nie rozumiem.
+Entschuldigung;Przepraszam
+Bitte;Proszę
+Danke;Dziękuję
+Ja;Tak
+Nein;Nie
+Tschüss;Do widzenia
+Auf Wiedersehen;Do zobaczenia
+Entschuldigung;Przepraszam
+Wie bitte?;Przepraszam, co powiedziałeś?
+Ich weiß nicht.;Nie wiem.
+Wo ist...?;Gdzie jest...?
+Kannst du mir helfen?;Możesz mi pomóc?
+Ich brauche...;Potrzebuję...
+Wie viel kostet das?;Ile to kosztuje?
+Was möchtest du?;Co chcesz?
+Ich habe Hunger/Durst;Jestem głodny/spragniony
+Ich bin müde;Jestem zmęczony
+Ich bin krank;Jestem chory
+Ich bin verloren;Zgubiłem się
+Ich bin früh/zu spät;Jestem za wcześnie/za późno
+Ich habe eine Frage;Mam pytanie
+Ich möchte gerne ...;Chciałbym ...
+Wie heißt du?;Jak masz na imię?
+Wie alt bist du?;Ile masz lat?
+Was machst du beruflich?;Jakie jest twoje zawodowe?
+Wo wohnst du?;Gdzie mieszkasz?
+Was sind deine Hobbys?;Jakie masz hobby?
+Hast du Familie?;Masz rodzinę?
+Was möchtest du trinken?;Co chcesz pić?
+Was möchtest du essen?;Co chcesz jeść?
+Wo kann ich ... finden?;Gdzie mogę znaleźć...?
+Was kostet das?;Ile to kosztuje?
+Ich bin hier neu.;Jestem nowy tutaj.
+Ich habe kein Geld.;Nie mam pieniędzy.
+Ich möchte gerne ein Zimmer;Chciałbym pokój
+Ich verstehe nicht alles;Nie rozumiwam wszystkiego
+Was ist deine Lieblingsfarbe?;Jaka jest twoja ulubiona kolor?
+Was ist dein Lieblingsbuch/Film?;Jaki jest twój ulubiony książka/film?
+Was ist deine Lieblingsmusik?;Jaka jest twoja ulubiona muzyka?
+Was ist deine Lieblingssportart?;Jaka jest twoja ulubiona dyscyplina sportowa?
+Was sind deine Ziele im Leben?;Jakie masz cele w życiu?
+Wie bist du aufgewachsen?;Jak się wychowałeś?
+Was sind deine Lieblingsreiseziele?;Jakie są twoje ulubione miejsca do odwiedzenia?
+Was machst du am Wochenende gerne?;Co lubisz robić w weekendy?
+Was sind deine Lieblingsferien?;Jakie są twoje ulubione wakacje?
+Was sind deine Lieblingsthemen zu reden?;Jakie są twoje ulubione tematy do rozmowy?
+Was sind deine Stärken und Schwächen?;Jakie są twoje mocne i słabe strony?
+Ich bin verheiratet/ledig/geschieden;Jestem żonaty/kawalerem/rozwiedziony
+Ich habe Kinder;Mam dzieci
+Ich bin Student/Arbeiter/Rentner;Jestem studentem/pracownikiem/emerytem
+Ich wohne in einer Wohnung/einem Haus;Mieszkam w mieszkaniu/domu
+Ich bin hier auf Geschäftsreise/Urlaub;Jestem tutaj w podróży służbowej/na wakacjach
+Ich arbeite als ...;Pracuję jako...
+Ich studiere/habe studiert ...;Studiuję/ukończyłem...
+Ich bin hier zum ersten Mal;Jestem tutaj po raz pierwszy
+Ich bin hier auf Besuch;Jestem tutaj na wizycie
+Ich möchte gerne einen Tisch reservieren;Chciałbym zarezerwować stolik
+Ich möchte gerne ein Ticket kaufen;Chciałbym kupić bilet
+Ich möchte gerne ein Auto mieten;Chciałbym wynająć samochód
+Ich möchte gerne eine Karte/ein Führer kaufen;Chciałbym kupić mapę/przewodnik
+Ich möchte gerne ein Hotelzimmer buchen;Chciałbym zarezerwować pokój w hotelu
+Ich möchte gerne einen Flug buchen;Chciałbym zarezerwować lot
+Ich möchte gerne eine Versicherung abschließen;Chciałbym zawrzeć ubezpieczenie
+Ich möchte gerne eine Bankkarte beantragen;Chciałbym wyrobić kartę bankową

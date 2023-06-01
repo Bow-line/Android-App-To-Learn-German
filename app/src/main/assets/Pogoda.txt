@@ -1,4 +1,78 @@
-TEST 1;TRANSLATE 1
-TEST 2;TRANSLATE 2
-TEST 3;TRANSLATE 3
-TEST 4;TRANSLATE 4
+das Wetter;Pogoda
+die Sonne;Słońce
+der Regen;Deszcz
+der Schnee;Śnieg
+der Wind;Wiatr
+die Wolken;Chmury
+die Hitze;Upał
+der Frost;Mróz
+das Gewitter;Burza
+das Unwetter;Nawalny deszcz
+der Regenbogen;Tęcza
+die Temperatur;Temperatura
+die Luftfeuchtigkeit;Wilgotność powietrza
+der Nebel;Mgła
+der Hagel;Grad
+der Orkan;Orkan
+die Dürre;Susza
+der Frostboden;Mrozista ziemia
+die Überschwemmung;Powódź
+die Gewitterwolke;Chmura burzowa
+die Sonnenbrille;Okulary przeciwsłoneczne
+die Regenjacke;Kurtka przeciwdeszczowa
+der Regenschirm;Parasol
+der Schnee;Śnieg
+der Schneebericht;Raport o ilości śniegu
+der Schneefall;Opad śniegu
+der Frost;Mróz
+der Eisregen;Marznący deszcz
+der Eiswind;Mroźny wiatr
+der Eisgang;Marznąca rzeka
+die Kälte;Zimno
+die Wärme;Ciepło
+die Sonnenstrahlen;Promienie słoneczne
+die Wolken;Chmury
+die Wolkendecke;Zachmurzenie
+die Bewölkung;Zachmurzenie
+die Bewölkungsgrad;Stopień zachmurzenia
+das Unwetter;Nawałnica
+der Regen;Deszcz
+der Regenbogen;Tęcza
+der Regenmantel;Płaszcz przeciwdeszczowy
+der Regenschirm;Parasol
+das Thermometer;Termometr
+der Barometer;Barometr
+der Windmesser;Anemometr
+die Luftdruck;Ciśnienie powietrza
+die Luftfeuchtigkeit;Wilgotność powietrza
+die Lufttemperatur;Temperatura powietrza
+die Niederschlag;Opady (deszcz, śnieg itp.)
+die Niederschlagsmenge;Ilość opadów
+die Luftverschmutzung;Zanieczyszczenie powietrza
+die UV-Strahlung;Promieniowanie UV
+die Feuchtigkeit;Wilgotność
+das Tauwetter;Topniejący śnieg
+der Taupunkt;Punkt rosy
+die Feuchtigkeitssättigung;Nasycenie wilgocią
+der Luftmassenwechsel;Zmiana mas powietrza
+der Luftdruckunterschied;Różnica ciśnienia powietrza
+die Luftfeuchtigkeit im Freien;Wilgotność powietrza na zewnątrz
+das Tiefdruckgebiet;Obszar niskiego ciśnienia
+das Hochdruckgebiet;Obszar wysokiego ciśnienia
+der Luftdruckanstieg;Wzrost ciśnienia powietrza
+der Luftdruckabfall;Spadek ciśnienia powietrza
+die Luftströmung;Przepływ powietrza
+die Luftdruckverteilung;Rozkład ciśnienia powietrza
+der Luftdruckmesser;Barometr
+der Luftdruck-Trend;Tendencja ciśnienia powietrza
+der Luftdruckverlauf;Przebieg ciśnienia powietrza
+der Luftdrucksprung;Skok ciśnienia powietrza
+der Luftdruckausgleich;Równoważenie ciśnienia powietrza
+der Luftdruckwert;Wartość ciśnienia powietrza
+die Wettervorhersage;Prognoza pogody
+die Wetterlage;Sytuacja pogodowa
+die Wetterprognose;Prognoza pogody
+die Wetterbericht;Raport pogodowy
+die Wetterwarnung;Ostrzeżenie pogodowe
+die Wettervorhersage-App;Aplikacja prognozy pogody
+die Wettervorhersage-Website;Strona prognozy pogody

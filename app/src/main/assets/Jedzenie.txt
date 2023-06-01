@@ -1,0 +1,86 @@
+der Rostbraten;rostbef
+der Apfel;jabłko
+der Tee;herbata
+der Käse;ser
+das Ei;jajko
+das Brot;chleb
+das Fleisch;mięso
+die Kartoffel;ziemniak
+die Tomate;pomidor
+die Zwiebel;cebula
+die Gurke;ogórek
+die Milch;mleko
+der Fisch;ryba
+der Reis;ryż
+der Pfeffer;pieprz
+der Zucker;cukier
+das Salz;sól
+die Soße;sos
+der Kaffee;kawa
+der Wein;wino
+das Bier;piwo
+die Suppe;zupa
+der Nudel;makaron
+der Reis;sałatka
+der Salat;sałatka
+die Soße;sos
+der Tee;herbata
+der Kakao;kakao
+der Saft;sok
+das Eis;lody
+der Kuchen;ciasto
+der Keks;ciastko
+der Joghurt;jogurt
+der Schokolade;czekolada
+der Honig;miód
+der Senf;musztarda
+der Pfefferminz;mięta
+der Pfannkuchen;naleśnik
+der Hamburger;hamburger
+der Hotdog;hot dog
+das Sandwich;kanapka
+der Pizzateig;ciasto na pizzę
+die Pizza;pizza
+der Pfefferoni;papryczka pepperoni
+der Schinken;szynka
+der Schinken;bekon
+das Eintopf;gulasz
+der Teller;talerz
+der Löffel;łyżka
+das Glas;szklanka
+der Teller;talerz
+der Becher;kubek
+der Messer;noż
+die Gabel;widelec
+das Hähnchen;kurczak
+der Schinken;szynka
+der Speck;bekon
+der Schinken;szynka
+das Würstchen;parówka
+der Tofu;tofu
+der Reisnudel;makaron ryżowy
+der Mais;kukurydza
+der Champignon;pieczarka
+der Spargel;szparag
+der Blumenkohl;kalafior
+der Fenchel;koper włoski
+der Sellerie;selera
+der Paprika;papryka
+der Sellerie;selera
+der Spargel;szparag
+das Rindfleisch;wołowina
+der Lammfleisch;mięso z jagnięce
+der Truthahn;indyk
+das Kaninchenfleisch;mięso z królika
+das Wildfleisch;mięso dziczyzny
+der Schokoladenpudding;pudding czekoladowy
+der Pudding;pudding
+der Apfelkuchen;jabłecznik
+der Apfelstrudel;szarlotka
+der Käsekuchen;sernik
+der Schokoladenkuchen;ciasto czekoladowe
+der Zitronenkuchen;ciasto cytrynowe
+der Grießnockerlsuppe;zupa knedli gryczanych
+der Eierlikör;likier jajeczny
+der Kaiserschmarrn;Kaiserschmarrn
+der Leberknödel;klops z wątróbki
