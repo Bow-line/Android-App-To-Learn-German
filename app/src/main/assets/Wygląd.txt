@@ -1,0 +1,62 @@
+das Aussehen; wygląd
+attraktiv; atrakcyjny
+hübsch; ładny/piękny
+schön; piękny
+hässlich; brzydki
+elegant; elegancki
+stilvoll; stylowy
+modisch; modny
+gepflegt; zadbany
+schlank; szczupły
+das Gesicht; twarz
+die Frisur; fryzura
+der Bart; broda
+die Augen; oczy
+die Haare; włosy
+der Teint; cera
+die Figur; figura
+die Körpergröße; wzrost
+die Kleidung; ubranie
+das Make-up; makijaż
+die Haut; skóra
+das Lächeln; uśmiech
+die Nase; nos
+die Lippen; usta
+die Zähne; zęby
+die Augenbrauen; brwi
+die Wimpern; rzęsy
+das Kinn; broda
+die Stirn; czoło
+der Hals; szyja
+die Schultern; ramiona
+der Rücken; plecy
+der Bauch; brzuch
+der Po; pupa
+die Beine; nogi
+die Arme; ramiona
+die Hände; ręce
+die Fingernägel; paznokcie
+die Füße; stopy
+die Schuhe; buty
+das Tattoo; tatuaż
+der Nagellack; lakier do paznokci
+der Lippenstift; szminka
+das Make-up; makijaż
+die Narbe; blizna
+die Sommersprossen; piegi
+die Falte; zmarszczka
+der Teint; cera
+die Figur; figura
+die Taille; talia
+das Tattoo; tatuaż
+der Stil; styl
+das Outfit; strój
+die Mode; moda
+die Farbe; kolor
+das Accessoire; dodatek
+die Schönheit; piękno
+der Stiefel; kozaki
+das Kleid; sukienka
+die Tasche; torba
+der Anzug; garnitur
+

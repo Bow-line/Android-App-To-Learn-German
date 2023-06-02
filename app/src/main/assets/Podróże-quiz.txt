@@ -1,0 +1,36 @@
+Was ist "Reise" auf Polnisch?;podróż;urlop;lot;hotel
+Was ist "Urlaub" auf Polnisch?;urlop;podróż;lot;hotel
+Was ist "Flug" auf Polnisch?;lot;urlop;podróż;hotel
+Was ist "Bahn" auf Polnisch?;pociąg;autobus;hotel;podróż
+Was ist "Bus" auf Polnisch?;autobus;pociąg;hotel;podróż
+Was ist "Hotel" auf Polnisch?;hotel;autobus;podróż;pociąg
+Was ist "Unterkunft" auf Polnisch?;zakwaterowanie;hotel;autobus;podróż
+Was ist "Stadt" auf Polnisch?;miasto;zakwaterowanie;autobus;hotel
+Was ist "Strand" auf Polnisch?;plaża;miasto;góra;jezioro
+Was ist "Berg" auf Polnisch?;góra;jezioro;miasto;plaża
+Was ist "See" auf Polnisch?;jezioro;góra;miasto;plaża
+Was ist "Wanderung" auf Polnisch?;wędrówka;jezioro;góra;miasto
+Was ist "Fahrradfahren" auf Polnisch?;jazda na rowerze;wędrówka;jezioro;góra
+Was ist "Koffer" auf Polnisch?;walizka;plecak;przewodnik turystyczny;bilet
+Was ist "Rucksack" auf Polnisch?;plecak;walizka;przewodnik turystyczny;bilet
+Was ist "Reiseführer" auf Polnisch?;przewodnik turystyczny;plecak;walizka;bilet
+Was ist "Touren" auf Polnisch?;wycieczki;przewodnik turystyczny;plecak;walizka
+Was ist "Ausflug" auf Polnisch?;wycieczka;wycieczki;przewodnik turystyczny;plecak
+Was ist "Reiseversicherung" auf Polnisch?;ubezpieczenie podróży;wycieczki;przewodnik turystyczny;plecak
+Was ist "Flughafen" auf Polnisch?;lotnisko;dworzec kolejowy;dworzec autobusowy;biuro podróży
+Was ist "Bahnhof" auf Polnisch?;dworzec kolejowy;lotnisko;dworzec autobusowy;biuro podróży
+Was ist "Busbahnhof" auf Polnisch?;dworzec autobusowy;dworzec kolejowy;lotnisko;biuro podróży
+Was ist "Reisebüro" auf Polnisch?;biuro podróży;dworzec autobusowy;dworzec kolejowy;lotnisko
+Was ist "Pässe" auf Polnisch?;paszporty;wiza;ostrzeżenie podróżne;ograniczenia podróży
+Was ist "Visa" auf Polnisch?;wiza;paszporty;ostrzeżenie podróżne;ograniczenia podróży
+Was ist "Reisewarnung" auf Polnisch?;ostrzeżenie podróżne;wiza;paszporty;ograniczenia podróży
+Was ist "Reiserestriktionen" auf Polnisch?;ograniczenia podróży;wiza;paszporty;ostrzeżenie podróżne
+Was ist "Ticket" auf Polnisch?;bilet;nocleg;system nawigacji;kemping
+Was ist "Unterkunft" auf Polnisch?;nocleg;system nawigacji;bilet;kemping
+Was ist "Navigationssystem" auf Polnisch?;system nawigacji;nocleg;bilet;kemping
+Was ist "Campingplatz" auf Polnisch?;kemping;system nawigacji;nocleg;bilet
+Was ist "Reiseversicherung" auf Polnisch?;ubezpieczenie podróży;kemping;system nawigacji;nocleg
+Was ist "Hotel" auf Polnisch?;hotel;ubezpieczenie podróży;kemping;system nawigacji
+Was ist "U-Bahn" auf Polnisch?;metro;hotel;ubezpieczenie podróży;kemping
+Wo ist die nächste Bushaltestelle?;Gdzie jest najbliższy przystanek autobusowy?;Jak dostać się na dworzec?;Czy mogę tutaj zamówić taksówkę?;Jaki pociąg/autobus/tramwaj mam wziąć?
+Wie komme ich zum Bahnhof?;Jak dostać się na dworzec?;Gdzie jest najbliższy przystanek autobusowy?;Czy mogę tutaj zamówić taksówkę?;Jaki pociąg/autobus/tramwaj mam wziąć?

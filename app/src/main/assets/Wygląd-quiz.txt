@@ -1,0 +1,30 @@
+Was ist "wygląd" auf Deutsch?;das Aussehen;die Frisur;der Bart;die Figur
+Was ist "atrakcyjny" auf Deutsch?;attraktiv;hässlich;schlank;gepflegt
+Was ist "ładny/piękny" auf Deutsch?;hübsch;modisch;stilvoll;schön
+Was ist "brzydki" auf Deutsch?;hässlich;elegant;schlank;gepflegt
+Was ist "elegancki" auf Deutsch?;elegant;modisch;stilvoll;gepflegt
+Was ist "stylowy" auf Deutsch?;stilvoll;attraktiv;hübsch;schön
+Was ist "modny" auf Deutsch?;modisch;gepflegt;schlank;elegant
+Was ist "zadbany" auf Deutsch?;gepflegt;schlank;elegant;hässlich
+Was ist "szczupły" auf Deutsch?;schlank;attraktiv;hässlich;stilvoll
+Was ist "twarz" auf Deutsch?;das Gesicht;die Augen;die Haare;die Nase
+Was ist "fryzura" auf Deutsch?;die Frisur;das Aussehen;die Figur;die Haut
+Was ist "broda" auf Deutsch?;der Bart;die Augen;die Lippen;das Kinn
+Was ist "oczy" auf Deutsch?;die Augen;das Gesicht;die Haare;die Nase
+Was ist "włosy" auf Deutsch?;die Haare;der Bart;die Figur;die Haut
+Was ist "cera" auf Deutsch?;der Teint;die Haut;das Make-up;die Nase
+Was ist "figura" auf Deutsch?;die Figur;der Rücken;der Bauch;die Beine
+Was ist "wzrost" auf Deutsch?;die Körpergröße;die Taille;die Schultern;der Po
+Was ist "ubranie" auf Deutsch?;die Kleidung;das Outfit;die Mode;die Farbe
+Was ist "makijaż" auf Deutsch?;das Make-up;die Haut;die Frisur;die Lippen
+Was ist "skóra" auf Deutsch?;die Haut;die Figur;der Teint;die Nase
+Was ist "uśmiech" auf Deutsch?;das Lächeln;die Nase;die Lippen;die Zähne
+Was ist "nos" auf Deutsch?;die Nase;die Augen;die Lippen;das Kinn
+Was ist "usta" auf Deutsch?;die Lippen;die Augen;die Nase;die Zähne
+Was ist "zęby" auf Deutsch?;die Zähne;die Augen;die Lippen;die Nase
+Was ist "brwi" auf Deutsch?;die Augenbrauen;das Gesicht;die Haare;die Figur
+Was ist "rzęsy" auf Deutsch?;die Wimpern;das Gesicht;die Haare;die Figur
+Was ist "broda" auf Deutsch?;das Kinn;das Gesicht;die Augen;die Lippen
+Was ist "czoło" auf Deutsch?;die Stirn;das Kinn;der Hals;die Schultern
+Was ist "szyja" auf Deutsch?;der Hals;die Schultern;der Rücken;der Bauch
+Was ist "ramiona" auf Deutsch?;die Schultern;der Rücken;der Bauch;der Po

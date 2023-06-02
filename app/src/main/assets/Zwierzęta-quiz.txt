@@ -1,0 +1,28 @@
+Was ist "żółw" auf Deutsch?;die Schildkröte;der Affe;der Tiger;das Kaninchen
+Was ist "małpa" auf Deutsch?;der Affe;die Schildkröte;der Tiger;das Nashorn
+Was ist "tygrys" auf Deutsch?;der Tiger;die Schildkröte;der Affe;der Delphin
+Was ist "lew" auf Deutsch?;die Löwe;die Schildkröte;der Affe;der Elefant
+Was ist "słoń" auf Deutsch?;der Elefant;die Schildkröte;der Affe;der Hase
+Was ist "krokodyl" auf Deutsch?;das Krokodil;die Schildkröte;der Affe;die Schlange
+Was ist "nosorożec" auf Deutsch?;das Nashorn;die Schildkröte;der Affe;das Känguru
+Was ist "niedźwiedź" auf Deutsch?;der Bär;die Schildkröte;der Affe;der Fuchs
+Was ist "jeleń" auf Deutsch?;das Reh;die Schildkröte;der Affe;der Löwe
+Was ist "lis" auf Deutsch?;der Fuchs;die Schildkröte;der Affe;der Hase
+Was ist "zając" auf Deutsch?;der Hase;die Schildkröte;der Affe;die Giraffe
+Was ist "orzeł" auf Deutsch?;der Adler;die Schildkröte;der Affe;der Wal
+Was ist "żyrafa" auf Deutsch?;die Giraffe;die Schildkröte;der Affe;der Tiger
+Was ist "delfin" auf Deutsch?;der Delphin;die Schildkröte;der Affe;der Frosch
+Was ist "wieloryb" auf Deutsch?;der Wal;die Schildkröte;der Affe;die Schlange
+Was ist "kangur" auf Deutsch?;das Känguru;die Schildkröte;der Affe;die Biene
+Was ist "motyl" auf Deutsch?;der Schmetterling;die Schildkröte;der Affe;die Eule
+Was ist "pszczoła" auf Deutsch?;die Biene;die Schildkröte;der Affe;der Papagei
+Was ist "mrówka" auf Deutsch?;die Ameise;die Schildkröte;der Affe;das Kamel
+Was ist "pająk" auf Deutsch?;die Spinne;die Schildkröte;der Affe;der Fledermaus
+Was ist "sowa" auf Deutsch?;die Eule;die Schildkröte;der Affe;der Bär
+Was ist "papuga" auf Deutsch?;der Papagei;die Schildkröte;der Affe;das Huhn
+
+
+
+
+
+

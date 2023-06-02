@@ -1,0 +1,42 @@
+die Technologie; technologia
+der Computer; komputer
+das Internet; internet
+das Smartphone; smartfon
+die Software; oprogramowanie
+die Hardware; sprzęt komputerowy
+das Netzwerk; sieć
+die Daten; dane
+der Bildschirm; ekran
+die Tastatur; klawiatura
+die Maus; myszka
+der Drucker; drukarka
+der Scanner; skaner
+das Betriebssystem; system operacyjny
+der Browser; przeglądarka
+das Passwort; hasło
+der Benutzername; nazwa użytkownika
+der Speicher; pamięć
+die Festplatte; dysk twardy
+das WLAN; sieć bezprzewodowa
+das Bluetooth; Bluetooth
+die Webseite; strona internetowa
+die App; aplikacja
+der Laptop; laptop
+das Tablet; tablet
+das Betriebssystem; system operacyjny
+die Programmiersprache; język programowania
+der Code; kod
+der Algorithmus; algorytm
+die Sicherheit; bezpieczeństwo
+die Firewall; zapora sieciowa
+der Virenscanner; program antywirusowy
+die Cloud; chmura
+die Backup; kopia zapasowa
+der Download; pobieranie
+der Upload; przesyłanie
+die Kamera; kamera
+das Mikrofon; mikrofon
+der Projektor; projektor
+der Akku; bateria
+die Virtual Reality; wirtualna rzeczywistość
+die Augmented Reality; rozszerzona rzeczywistość

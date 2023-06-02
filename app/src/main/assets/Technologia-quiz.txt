@@ -1,0 +1,43 @@
+Was ist "die Technologie" auf Polnisch?;technologia;komputer;internet;smartfon
+Was ist "der Computer" auf Polnisch?;komputer;technologia;internet;smartfon
+Was ist "das Internet" auf Polnisch?;internet;komputer;technologia;smartfon
+Was ist "das Smartphone" auf Polnisch?;smartfon;komputer;internet;technologia
+Was ist "die Software" auf Polnisch?;oprogramowanie;sprzęt komputerowy;sieć;dane
+Was ist "die Hardware" auf Polnisch?;sprzęt komputerowy;oprogramowanie;sieć;dane
+Was ist "das Netzwerk" auf Polnisch?;sieć;oprogramowanie;sprzęt komputerowy;dane
+Was ist "die Daten" auf Polnisch?;dane;oprogramowanie;sprzęt komputerowy;sieć
+Was ist "der Bildschirm" auf Polnisch?;ekran;klawiatura;myszka;drukarka
+Was ist "die Tastatur" auf Polnisch?;klawiatura;ekran;myszka;drukarka
+Was ist "die Maus" auf Polnisch?;myszka;ekran;klawiatura;drukarka
+Was ist "der Drucker" auf Polnisch?;drukarka;ekran;klawiatura;myszka
+Was ist "der Scanner" auf Polnisch?;skaner;ekran;klawiatura;myszka
+Was ist "das Betriebssystem" auf Polnisch?;system operacyjny;przeglądarka;hasło;nazwa użytkownika
+Was ist "der Browser" auf Polnisch?;przeglądarka;system operacyjny;hasło;nazwa użytkownika
+Was ist "das Passwort" auf Polnisch?;hasło;przeglądarka;system operacyjny;nazwa użytkownika
+Was ist "der Benutzername" auf Polnisch?;nazwa użytkownika;przeglądarka;system operacyjny;hasło
+Was ist "der Speicher" auf Polnisch?;pamięć;przeglądarka;system operacyjny;hasło
+Was ist "die Festplatte" auf Polnisch?;dysk twardy;przeglądarka;system operacyjny;hasło
+Was ist "das WLAN" auf Polnisch?;sieć bezprzewodowa;przeglądarka;system operacyjny;hasło
+Was ist "das Bluetooth" auf Polnisch?;Bluetooth;przeglądarka;system operacyjny;hasło
+Was ist "die Webseite" auf Polnisch?;strona internetowa;aplikacja;laptop;tablet
+Was ist "die App" auf Polnisch?;aplikacja;strona internetowa;laptop;tablet
+Was ist "der Laptop" auf Polnisch?;laptop;aplikacja;strona internetowa;tablet
+Was ist "das Tablet" auf Polnisch?;tablet;aplikacja;strona internetowa;laptop
+Was ist "das Betriebssystem" auf Polnisch?;system operacyjny;aplikacja;strona internetowa;laptop
+Was ist "die Programmiersprache" auf Polnisch?;język programowania;aplikacja;strona internetowa;laptop
+Was ist "der Code" auf Polnisch?;kod;aplikacja;strona internetowa;laptop
+Was ist "der Algorithmus" auf Polnisch?;algorytm;aplikacja;strona internetowa;laptop
+Was ist "die Sicherheit" auf Polnisch?;bezpieczeństwo;aplikacja;strona internetowa;laptop
+Was ist "die Firewall" auf Polnisch?;zapora sieciowa;aplikacja;strona internetowa;laptop
+Was ist "der Virenscanner" auf Polnisch?;program antywirusowy;aplikacja;strona internetowa;laptop
+Was ist "die Cloud" auf Polnisch?;chmura;aplikacja;strona internetowa;laptop
+Was ist "die Backup" auf Polnisch?;kopia zapasowa;aplikacja;strona internetowa;laptop
+Was ist "der Download" auf Polnisch?;pobieranie;aplikacja;strona internetowa;laptop
+Was ist "der Upload" auf Polnisch?;przesyłanie;aplikacja;strona internetowa;laptop
+Was ist "die Kamera" auf Polnisch?;kamera;aplikacja;strona internetowa;laptop
+Was ist "das Mikrofon" auf Polnisch?;mikrofon;aplikacja;strona internetowa;laptop
+Was ist "der Projektor" auf Polnisch?;projektor;aplikacja;strona internetowa;laptop
+Was ist "der Akku" auf Polnisch?;bateria;aplikacja;strona internetowa;laptop
+Was ist "die Virtual Reality" auf Polnisch?;wirtualna rzeczywistość;aplikacja;strona internetowa;laptop
+Was ist "die Augmented Reality" auf Polnisch?;rozszerzona rzeczywistość;aplikacja;strona internetowa;laptop
+
