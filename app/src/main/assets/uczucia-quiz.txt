@@ -1,4 +1,46 @@
-Wie viel kostet das?;Ile to kosztuje?;Gdzie mogę znaleźć...?;Co chcesz pić?;Potrzebuję...
-Wie alt bist du?;Ile masz lat?;Jakie masz hobby?;Jakie są twoje ulubione miejsca do odwiedzenia?;Co mówią prognozy pogody na tę najbliższą tydzień?
-Wo kann ich ... finden?;Gdzie mogę znaleźć...?;Jakie są twoje cele zawodowe?;Jakie masz hobby?;Ile masz lat?
-Ich habe kein Geld.;Nie mam pieniędzy;Potrzebuję...;Gdzie mogę znaleźć...?;Jakie masz hobby?
+Was ist "glücklich" auf Polnisch?;szczęśliwy;smutny;zły;zaniepokojony
+Was ist "traurig" auf Polnisch?;smutny;szczęśliwy;zły;zaniepokojony
+Was ist "wütend" auf Polnisch?;zły;szczęśliwy;smutny;zaniepokojony
+Was ist "ängstlich" auf Polnisch?;zaniepokojony;szczęśliwy;smutny;zły
+Was ist "enttäuscht" auf Polnisch?;rozczarowany;szczęśliwy;smutny;zły
+Was ist "neugierig" auf Polnisch?;ciekawy;szczęśliwy;smutny;zły
+Was ist "verliebt" auf Polnisch?;zakochany;szczęśliwy;smutny;zły
+Was ist "erschrocken" auf Polnisch?;przerażony;szczęśliwy;smutny;zły
+Was ist "erleichtert" auf Polnisch?;ulżony;szczęśliwy;smutny;zły
+Was ist "verwirrt" auf Polnisch?;zdezorientowany;szczęśliwy;smutny;zły
+Was ist "erregt" auf Polnisch?;podniecony;szczęśliwy;smutny;zły
+Was ist "besorgt" auf Polnisch?;zaniepokojony;szczęśliwy;smutny;zły
+Was ist "stolz" auf Polnisch?;dumny;szczęśliwy;smutny;zły
+Was ist "erschöpft" auf Polnisch?;zmęczony;szczęśliwy;smutny;zły
+Was ist "überrascht" auf Polnisch?;zaskoczony;szczęśliwy;smutny;zły
+Was ist "erfreut" auf Polnisch?;zadowolony;szczęśliwy;smutny;zły
+Was ist "verärgert" auf Polnisch?;zirytowany;szczęśliwy;smutny;zły
+Was ist "hoffnungsvoll" auf Polnisch?;pełen nadziei;szczęśliwy;smutny;zły
+Was ist "unglücklich" auf Polnisch?;nieszczęśliwy;szczęśliwy;smutny;zły
+Was ist "verzweifelt" auf Polnisch?;zdesperowany;szczęśliwy;smutny;zły
+Was ist "einsam" auf Polnisch?;samotny;szczęśliwy;smutny;zły
+Was ist "gespannt" auf Polnisch?;napięty;szczęśliwy;smutny;zły
+Was ist "empört" auf Polnisch?;oburzony;szczęśliwy;smutny;zły
+Was ist "zufrieden" auf Polnisch?;zadowolony;szczęśliwy;smutny;zły
+Was ist "gelangweilt" auf Polnisch?;znudzony;szczęśliwy;smutny;zły
+Was ist "begeistert" auf Polnisch?;zachwycony;szczęśliwy;smutny;zły
+Was ist "mutlos" auf Polnisch?;beznadziejny;szczęśliwy;smutny;zły
+Was ist "optimistisch" auf Polnisch?;optymistyczny;szczęśliwy;smutny;zły
+Was ist "pessimistisch" auf Polnisch?;pesymistyczny;szczęśliwy;smutny;zły
+Was ist "dankbar" auf Polnisch?;wdzięczny;szczęśliwy;smutny;zły
+Was ist "unzufrieden" auf Polnisch?;niezadowolony;szczęśliwy;smutny;zły
+Was ist "liebevoll" auf Polnisch?;z miłością;szczęśliwy;smutny;zły
+Was ist "zornig" auf Polnisch?;gniewny;szczęśliwy;smutny;zły
+Was ist "ungläubig" auf Polnisch?;niedowierzający;szczęśliwy;smutny;zły
+Was ist "beschämt" auf Polnisch?;zawstydzony;szczęśliwy;smutny;zły
+Was ist "fröhlich" auf Polnisch?;radosny;szczęśliwy;smutny;zły
+Was ist "verlegen" auf Polnisch?;zakłopotany;szczęśliwy;smutny;zły
+Was ist "erleichtert" auf Polnisch?;ulżony;szczęśliwy;smutny;zły
+Was ist "besorgt" auf Polnisch?;zaniepokojony;szczęśliwy;smutny;zły
+Was ist "beunruhigt" auf Polnisch?;niepokojony;szczęśliwy;smutny;zły
+Was ist "unbesorgt" auf Polnisch?;beztroski;szczęśliwy;smutny;zły
+Was ist "panisch" auf Polnisch?;panikujący;szczęśliwy;smutny;zły
+Was ist "verängstigt" auf Polnisch?;przerażony;szczęśliwy;smutny;zły
+Was ist "Traurigkeit" auf Polnisch?;smutek;radość;strach;gniew
+Was ist "Angst" auf Polnisch?;strach;radość;smutek;gniew
+Was ist "Freude" auf Polnisch?;radość;smutek;strach;gniew
