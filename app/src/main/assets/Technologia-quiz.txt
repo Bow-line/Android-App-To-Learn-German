@@ -40,4 +40,3 @@ Was ist "der Projektor" auf Polnisch?;projektor;aplikacja;strona internetowa;lap
 Was ist "der Akku" auf Polnisch?;bateria;aplikacja;strona internetowa;laptop
 Was ist "die Virtual Reality" auf Polnisch?;wirtualna rzeczywistość;aplikacja;strona internetowa;laptop
 Was ist "die Augmented Reality" auf Polnisch?;rozszerzona rzeczywistość;aplikacja;strona internetowa;laptop
-

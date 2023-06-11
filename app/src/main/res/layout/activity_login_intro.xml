@@ -8,6 +8,21 @@
     tools:context=".MainActivity">
 
 
+    <Button
+        android:id="@+id/btnGetStarted2"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:gravity="center_horizontal"
+        android:onClick="loadMenu"
+        android:text="Zacznijmy!"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLoginSubHeader" />
+
     <TextView
         android:id="@+id/txtLoginSubHeader"
         style="@style/TextAppearance.AppCompat.Subhead"

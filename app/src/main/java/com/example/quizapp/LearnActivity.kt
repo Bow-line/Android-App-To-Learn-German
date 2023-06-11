@@ -1,13 +1,13 @@
 package com.example.quizapp
 
+import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import android.view.View
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import java.io.InputStream
+import java.io.*
 
 class LearnActivity : AppCompatActivity() {
 
@@ -16,13 +16,13 @@ class LearnActivity : AppCompatActivity() {
     //for the list of flashcards
     private val listOfLines = mutableListOf<List<String>>()
     private var listIndex : Int = 0
-
+    private var countBackwards = 0
 
     private var totalFlashSize : Int = 0
     private var currentFlashcard : Int = 0
 
     private fun getData(){
-        var intent = intent.extras
+        val intent = intent.extras
         lessonName = intent!!.getString("lessonName")
 
         val title = findViewById<TextView>(R.id.unitTitle)
@@ -41,6 +41,47 @@ class LearnActivity : AppCompatActivity() {
         }
         listOfLines.shuffle()
         totalFlashSize = listOfLines.size
+    }
+
+    private fun updateProgress(){
+        //functionality of progress bar
+        val fileName = "Stats.txt"
+
+        val content = mutableListOf<MutableList<String>>()
+        var line : MutableList<String>
+
+        val fileInputStream: FileInputStream? = openFileInput(fileName)
+        val inputStreamReader = InputStreamReader(fileInputStream)
+        val reader = BufferedReader(inputStreamReader)
+        reader.useLines { lines ->
+            lines.forEach {
+                line = it.split(";") as MutableList<String>
+                content.add(line)
+            }
+        }
+
+        val newContent = mutableListOf<String>()
+        var newString = ""
+
+        for(x in content){
+            if(x[0] == lessonName){
+                var flashcardProgress = x[1].toInt()
+                if(flashcardProgress < x[2].toInt())
+                    flashcardProgress++
+                x[1] = flashcardProgress.toString()
+            }
+            val newline : String = x[0] + ";" + x[1] + ";" + x[2] + ";" + x[3] + ";" + x[4]
+            newString += newline
+            if(x != content.last()){
+                newString += '\n'
+            }
+            newContent.add(newline + '\n')
+        }
+
+        val fileOutputStream : FileOutputStream = openFileOutput("Stats.txt", Context.MODE_PRIVATE)
+        val outputWriter = OutputStreamWriter(fileOutputStream)
+        outputWriter.write(newString)
+        outputWriter.close()
     }
 
     private fun showNextFlashcard(){
@@ -87,6 +128,12 @@ class LearnActivity : AppCompatActivity() {
         findViewById<Button>(R.id.nextBtn).setOnClickListener{
             if(listIndex+1 < totalFlashSize){
                 listIndex++
+                if (countBackwards == 0){
+                    updateProgress()
+                }
+                else{
+                    countBackwards--
+                }
                 showNextFlashcard()
             }
             else{
@@ -97,6 +144,7 @@ class LearnActivity : AppCompatActivity() {
 
         findViewById<Button>(R.id.prevBtn).setOnClickListener{
             showPrevFlashcard()
+            countBackwards++
         }
     }
 

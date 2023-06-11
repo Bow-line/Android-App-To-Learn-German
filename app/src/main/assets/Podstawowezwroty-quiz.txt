@@ -1,8 +1,8 @@
 Was ist "Hallo" auf Deutsch?;Cześć;Dzień dobry;Do widzenia;Dziękuję
 Was ist "Guten Morgen" auf Deutsch?;Dzień dobry;Cześć;Do widzenia;Przepraszam
 Was ist "Wie geht's" auf Deutsch?;Jak się masz?;Dzień dobry;Przepraszam, co powiedziałeś?;Do widzenia
-Was ist "śnieg" auf Deutsch?;Przepraszam;Proszę;Dziękuję;Jak się masz?
-Was ist "Entschuldigung" auf Deutsch?;Nie mówię po niemiecku;Nie wiem;Nie rozumiem;Jak się masz?
+Was ist "Entschuldigung" auf Deutsch?;Przepraszam;Proszę;Dziękuję;Jak się masz?
+Was ist "Ich spreche kein Deutsch" auf Deutsch?;Nie mówię po niemiecku;Nie wiem;Nie rozumiem;Jak się masz?
 Was ist "Dobry wieczór" auf Deutsch?;Guten Abend;Guten Morgen;Tschüss;Guten Tag
 Was ist "jestem głodny" auf Deutsch?;Ich habe Hunger;Ich bin müde;Ich habe Durst;Ich brauche etwas zu essen
 Was ist "jestem zmęczony" auf Deutsch?;Ich bin müde;Ich bin hungrig;Ich bin krank;Ich bin verloren

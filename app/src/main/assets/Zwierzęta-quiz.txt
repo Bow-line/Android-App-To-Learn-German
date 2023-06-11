@@ -20,9 +20,3 @@ Was ist "mrówka" auf Deutsch?;die Ameise;die Schildkröte;der Affe;das Kamel
 Was ist "pająk" auf Deutsch?;die Spinne;die Schildkröte;der Affe;der Fledermaus
 Was ist "sowa" auf Deutsch?;die Eule;die Schildkröte;der Affe;der Bär
 Was ist "papuga" auf Deutsch?;der Papagei;die Schildkröte;der Affe;das Huhn
-
-
-
-
-
-

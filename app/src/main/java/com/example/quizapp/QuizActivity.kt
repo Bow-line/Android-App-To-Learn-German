@@ -1,5 +1,6 @@
 package com.example.quizapp
 
+import android.content.Context
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,14 +9,15 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.appcompat.app.AlertDialog
 import com.example.quizapp.databinding.ActivityMainBinding
+import java.io.*
 
 class QuizActivity : AppCompatActivity() {
-    val quizData: MutableList<MutableList<String>> = mutableListOf()
+    private val quizData: MutableList<MutableList<String>> = mutableListOf()
     private var lessonName: String? = null
 
     private lateinit var binding: ActivityMainBinding
     private var rightAnswer: String? = null
-    private var rightAnswrCount = 0
+    private var rightAnswerCount = 0
     private var quizCount = 1
     private var QUIZ_COUNT = 0
 
@@ -37,15 +39,50 @@ class QuizActivity : AppCompatActivity() {
             }
         }
 
-
         QUIZ_COUNT = quizData.size
-
 
     }
 
+    private fun updateProgress(){
+        //functionality of progress bar
+        val fileName = "Stats.txt"
 
+        val content = mutableListOf<MutableList<String>>()
+        var line : MutableList<String>
 
+        val fileInputStream: FileInputStream? = openFileInput(fileName)
+        val inputStreamReader = InputStreamReader(fileInputStream)
+        val reader = BufferedReader(inputStreamReader)
+        reader.useLines { lines ->
+            lines.forEach {
+                line = it.split(";") as MutableList<String>
+                content.add(line)
+            }
+        }
 
+        val newContent = mutableListOf<String>()
+        var newString = ""
+
+        for(x in content){
+            if(x[0] == lessonName){
+                var quizProgress = x[3].toInt()
+                if(quizProgress < x[4].toInt())
+                    quizProgress++
+                x[3] = quizProgress.toString()
+            }
+            val newline : String = x[0] + ";" + x[1] + ";" + x[2] + ";" + x[3] + ";" + x[4]
+            newString += newline
+            if(x != content.last()){
+                newString += '\n'
+            }
+            newContent.add(newline + '\n')
+        }
+
+        val fileOutputStream : FileOutputStream = openFileOutput("Stats.txt", Context.MODE_PRIVATE)
+        val outputWriter = OutputStreamWriter(fileOutputStream)
+        outputWriter.write(newString)
+        outputWriter.close()
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -57,7 +94,7 @@ class QuizActivity : AppCompatActivity() {
         showNextQuiz()
     }
 
-    fun showNextQuiz(){
+    private fun showNextQuiz(){
         binding.countLabel.text = getString(R.string.count_label, quizCount)
 
         val quiz = quizData[0]
@@ -81,8 +118,9 @@ class QuizActivity : AppCompatActivity() {
 
         val alertTitle: String
         if (btnText == rightAnswer){
+            updateProgress()
             alertTitle="Dobrze!"
-            rightAnswrCount++
+            rightAnswerCount++
         }
         else {
             alertTitle = "Źle..."
@@ -92,15 +130,15 @@ class QuizActivity : AppCompatActivity() {
             .setTitle(alertTitle)
             .setMessage("Odpowiedź: $rightAnswer")
             .setPositiveButton("OK"){
-                    dialogInterface,i -> checkQuizCount()
+                    _, _ -> checkQuizCount()
             }
             .setCancelable(false)
             .show()
     }
-    fun checkQuizCount(){
+    private fun checkQuizCount(){
         if( quizCount == QUIZ_COUNT){
             val intent = Intent(this@QuizActivity, ResultActivity::class.java)
-            intent.putExtra("RIGHT_ANSWER_COUNT", rightAnswrCount)
+            intent.putExtra("RIGHT_ANSWER_COUNT", rightAnswerCount)
             startActivity(intent)
         }
         else{

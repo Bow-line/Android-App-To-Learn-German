@@ -1,0 +1,8 @@
+Podstawowe zwroty;0;74;0;20
+Jedzenie;0;86;0;18
+Podróże;0;44;0;36
+Pogoda;0;78;0;19
+Technologia;0;42;0;42
+Uczucia;0;54;0;46
+Wygląd;0;61;0;30
+Zwierzęta;0;90;0;22
