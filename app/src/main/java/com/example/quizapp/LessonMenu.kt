@@ -66,10 +66,41 @@ class LessonMenu : AppCompatActivity() {
 
     private fun resetProgress(){
         val fileName = "Stats.txt"
-        val file = File(filesDir.path + "/" + fileName)
-        if(file.exists()){
-          file.delete()
+
+        val content = mutableListOf<MutableList<String>>()
+        var line : MutableList<String>
+
+        val fileInputStream: FileInputStream? = openFileInput(fileName)
+        val inputStreamReader = InputStreamReader(fileInputStream)
+        val reader = BufferedReader(inputStreamReader)
+        reader.useLines { lines ->
+            lines.forEach {
+                line = it.split(";") as MutableList<String>
+                content.add(line)
+            }
         }
+
+        val newContent = mutableListOf<String>()
+        var newString = ""
+
+        for(x in content){
+            if(x[0] == lessonName){
+                x[1] = 0.toString()
+                x[3] = 0.toString()
+            }
+            val newline : String = x[0] + ";" + x[1] + ";" + x[2] + ";" + x[3] + ";" + x[4]
+            newString += newline
+            if(x != content.last()){
+                newString += '\n'
+            }
+            newContent.add(newline + '\n')
+        }
+
+        val fileOutputStream : FileOutputStream = openFileOutput("Stats.txt", Context.MODE_PRIVATE)
+        val outputWriter = OutputStreamWriter(fileOutputStream)
+        outputWriter.write(newString)
+        outputWriter.close()
+
         updateProgress()
     }
 
